@@ -13,7 +13,7 @@ A demo to show how handlebars precompilation works
 
 5. Access the template of `demo.handlebars` by using
 
-```script
+```javascript
 var context = {
 	"name":"Ritesh Kumar",
 	"occupation" : "Developer"
