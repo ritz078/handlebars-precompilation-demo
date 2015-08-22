@@ -1,4 +1,6 @@
 # handlebars-precompilation-demo
+
+The article is present on [SitePoint](http://bit.ly/1DRmfKe)
 A demo to show how handlebars precompilation works
 
 1. keep all the template files with `.handlebars` extension inside the `templates folder`.
